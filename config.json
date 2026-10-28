@@ -65,6 +65,13 @@
       "description": "Build a task-management REST API with FastAPI, CRUD routes, validation, and HTTP status codes.",
       "path": "assignments/building-rest-apis-fastapi",
       "dueDate": "2026-11-04"
+    },
+    {
+      "id": "fastapi-sqlite-persistence",
+      "title": "FastAPI SQLite Persistence",
+      "description": "Add SQLite persistence to a FastAPI task API and verify CRUD data survives server restarts.",
+      "path": "assignments/fastapi-sqlite-persistence",
+      "dueDate": "2026-11-04"
     }
   ]
 }
